@@ -1,0 +1,19 @@
+.main-section{
+    background:url('https://images.pexels.com/photos/1386484/pexels-photo-1386484.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 25rem;
+    padding: 10px;
+}
+.heading{
+    color: rgb(219, 197, 106);
+    margin-top: 120px;
+}
+.span{
+    color: tomato;
+    font-weight: 800;
+}
+.para{
+    color: rgb(172, 148, 148);
+    font-weight: 600;
+}
